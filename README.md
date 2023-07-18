@@ -1,3 +1,3 @@
 # TodoApp-using-javascript
 
-<img src="todoapp.png" width="300"/>
+<img src="./todoapp.png" width="600"/>
